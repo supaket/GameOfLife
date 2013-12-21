@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.thjug.gameoflife.DashboardNGTest" duration-ms="97" started-at="2013-12-21T17:57:41Z" finished-at="2013-12-21T17:57:41Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="97" started-at="2013-12-21T17:57:41Z" finished-at="2013-12-21T17:57:41Z">
+      <class name="com.thjug.gameoflife.DashboardNGTest">
+        <test-method status="PASS" signature="testRandom()[pri:0, instance:com.thjug.gameoflife.DashboardNGTest@746f6266]" name="testRandom" duration-ms="15" started-at="2013-12-22T00:57:41Z" finished-at="2013-12-22T00:57:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRandom -->
+        <test-method status="PASS" signature="testRun3Times()[pri:0, instance:com.thjug.gameoflife.DashboardNGTest@746f6266]" name="testRun3Times" duration-ms="55" started-at="2013-12-22T00:57:41Z" finished-at="2013-12-22T00:57:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRun3Times -->
+      </class> <!-- com.thjug.gameoflife.DashboardNGTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.thjug.gameoflife.DashboardNGTest -->
+</testng-results>

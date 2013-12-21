@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.thjug.gameoflife.CheckNGTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.thjug.gameoflife.CheckNGTest">
+        <methods>
+          <include name="testBottonrightWithoutFriend"/>
+          <include name="testBottonLeftWithoutFriend"/>
+          <include name="testTopRightWithoutFriend"/>
+          <include name="topLeftSpotDeadWithZeroAround"/>
+        </methods>
+      </class> <!-- com.thjug.gameoflife.CheckNGTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.thjug.gameoflife.CheckNGTest] -->

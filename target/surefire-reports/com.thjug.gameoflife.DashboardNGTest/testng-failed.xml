@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.thjug.gameoflife.DashboardNGTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.thjug.gameoflife.DashboardNGTest">
+        <methods>
+          <include name="testRun3Times"/>
+        </methods>
+      </class> <!-- com.thjug.gameoflife.DashboardNGTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.thjug.gameoflife.DashboardNGTest] -->
